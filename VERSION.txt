@@ -1,0 +1,9 @@
+VISTA Circuit Lab
+Public Release: v0.2.0
+Release date: 2026-10-06
+
+Normal public mode:
+  index.html
+
+Developer schematic calibration mode:
+  index.html?calibrate=1
