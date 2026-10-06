@@ -1,0 +1,6 @@
+VISTA Circuit Lab
+© 2026 VISTA Learning Tools. All rights reserved.
+
+This distribution does not include an open-source license.
+The VISTA name, visual identity, application design, instructional workflow,
+and source code remain the property of their respective rights holder(s).
